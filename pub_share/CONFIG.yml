@@ -1,0 +1,12 @@
+---
+binance_api: 
+  key:
+    # binance API key
+  secret:
+    # binance API sec
+
+gmail:
+  user:
+    # your gmail user name
+  password:
+    # gmail password
